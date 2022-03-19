@@ -136,6 +136,6 @@ EMAIL_HOST = "smtp.gmail.com"
 EMAIL_USE_TLS = True        #seguridad en la capa de transporte
 EMAIL_PORT = 587
 EMAIL_HOST_USER = "anroo475@gmail.com"
-EMAIL_HOST_PASSWORD = "-ana44277"
+EMAIL_HOST_PASSWORD = "here password gmail :)"
 
 #recordad que hay que configurar el gamil a usar
